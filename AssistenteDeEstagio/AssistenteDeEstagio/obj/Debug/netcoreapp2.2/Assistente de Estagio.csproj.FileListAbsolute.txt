@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Assistente de Estagio\Assistente de Estagio\obj\Debug\netcoreapp2.2\Assistente de Estagio.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Assistente de Estagio\Assistente de Estagio\obj\Debug\netcoreapp2.2\Assistente de Estagio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Assistente de Estagio\Assistente de Estagio\obj\Debug\netcoreapp2.2\Assistente de Estagio.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Assistente de Estagio\Assistente de Estagio\obj\Debug\netcoreapp2.2\Assistente de Estagio.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Assistente de Estagio\Assistente de Estagio\obj\Debug\netcoreapp2.2\Assistente de Estagio.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Assistente de Estagio\Assistente de Estagio\obj\Debug\netcoreapp2.2\Assistente de Estagio.AssemblyInfo.cs
