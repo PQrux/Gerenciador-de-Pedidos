@@ -1,0 +1,25 @@
+/**File containing custom CSS settings*/
+
+/**Admin Header custom setting*/
+ .navbar-default {
+    background-color: #003fa9;
+}
+/**primary button custom setting*/
+ .btn-primary {
+    background-color: #003fa9;
+    color: white;
+}
+/**Admin tool button*/
+ .admin-tool-button {
+    width: 215px;
+    height: 250px;
+    /*try{encontrar_a public void FuncaoDeChat();}catch{unimplemented}*/
+    margin: 20px;
+}
+/**For center positioned images*/
+ .img-align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

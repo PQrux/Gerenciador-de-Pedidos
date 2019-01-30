@@ -1,0 +1,125 @@
+.mascote{
+    float:left;
+}
+#tituloSelec {
+    background-color: rgba(245, 245, 245, 0.74);
+    padding: 2px;
+    font-weight: bolder;
+    font-family:'Titillium Web';
+}
+.pSelec {
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+
+.btnDoc {
+    padding: 0px;
+    margin-left: 78px;
+    max-width: 900px;
+    border-radius: 5px;
+    background-color: white;
+    border: 2px solid rgb(25,20,20);
+    border-radius: 5px;
+}
+.btnDoc:hover > .nomeDoc {
+    background: purple;
+}
+
+.buttonDoc {
+    padding: 2px;
+    margin: 0px -3px;
+    margin-bottom: 3px;
+    position: relative;
+    display: inline;
+    border: 0;
+    font-weight: bolder;
+    color: white;
+    min-width: 110px;
+    font-family: 'Tillium Web';
+    box-shadow: 1px 1px 0px white;
+    border: 0;
+    cursor: pointer;
+    border-radius: 3px;
+    float:right;
+}
+.passoDoc {
+    margin: 10px;
+    font-size: 20px;
+    display: inline;
+    /* margin-right: 40px; */
+    font-weight: bolder;
+    position: relative;
+}
+.tituloDoc {
+    font-size: 17px;
+    display: inline;
+    font-weight:100;
+    margin: 0 10%;
+    text-transform:uppercase;
+    font-family:"Titillium Web";
+}
+.descricaoDoc{
+    font-style:italic;
+}
+
+.nomeDoc {
+    
+    margin: 0;
+    position: relative;
+    border-bottom: 1px solid rgb(86,42,216);
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#562ad8+50,4d20ca+51&1+29,0+59 */
+    background: -moz-linear-gradient(left, rgba(86,42,216,1) 20%, rgba(77,32,202,0) 19%);
+    background: -webkit-linear-gradient(left, rgba(86,42,216,1)   201%, rgba(77,32,202,0) 19%);
+    background: linear-gradient(to right, rgba(86,42,216,.5)  20%,rgba(77,32,202,0) 27%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#562ad8', endColorstr='#004d20ca',GradientType=1 );
+    padding: 8px;
+    border-radius: 5px !important;
+}
+.printInSelec {
+    background-color:deepskyblue;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    
+}
+
+.downloadInSelec {
+    background: black;
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-left:70px;
+}
+.MainContainer {
+    display: inline;
+    max-width: 79%;
+    width: 100%;
+    height: -webkit-fill-available;
+    float: left;
+    text-indent: 20px;
+    border:1px solid;
+    padding:10px;
+}
+.SideContainer {
+    border: 2px solid black;
+    border-radius: 5px;
+    position: fixed;
+    margin-right: 11px;
+}
+.padding-sideContainer {
+    display: inline;
+    width: 20%;
+    float: right;
+    
+}
+.linha-side {
+    padding: 10px;
+    border-bottom:2px solid black;
+}
+.linha-side:last-child {
+    padding: 10px;
+    border-bottom: 0;
+}
+
+.docDiv{
+    width:100%;
+    margin:-1px;
+}
